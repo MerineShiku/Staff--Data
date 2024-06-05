@@ -1,7 +1,6 @@
 import Person from "./Person";
 
-function PersonList (){
-
+const PersonList = () => {
   
     return (
   

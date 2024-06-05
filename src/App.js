@@ -2,7 +2,7 @@ import './App.css';
 import PersonList from './PersonList';
 
 
-function App() {
+const App = () => {
   return (
     <div className="App">
        
